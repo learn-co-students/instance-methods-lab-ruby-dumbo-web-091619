@@ -1,7 +1,6 @@
 # Instance Methods Lab Ruby
 
-## Learning Goals
-
+## Learning Goal
 - Define a class.
 - Build instance methods for the class.
 
