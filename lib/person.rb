@@ -1,7 +1,13 @@
 class Person
  def talk
-   puts "Hello World!"
+  puts "Hello World!"
  end
-   fido Person.new 
-   fido.talk
+ def walk
+  puts "The Person is walking"
+ end
+
+ mark = Person.new
+mark.talk
+mark.walk
 end
+
